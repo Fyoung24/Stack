@@ -1,7 +1,7 @@
 /*
-CZ
+StackNode
 11/9/23
-FY
+FY Collaberation with CZ + LO
  */
 
 public class Stack<T> {
